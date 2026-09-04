@@ -10,7 +10,7 @@ namespace homework1.Tasks.Chapter1
         {
             Console.WriteLine("Введите температуру в Цельсия: ");
 
-            string? input = Console.ReadLine();
+            string?  input = Console.ReadLine();
             double celsius = Convert.ToDouble(input);
 
             double fahrenheit = celsius * 1.8 + 32;

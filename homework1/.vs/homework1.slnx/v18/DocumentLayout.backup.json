@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\swgoherf\\source\\repos\\homework1\\",
+  "WorkspaceRootPath": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A2B5ABF-7890-4A52-BD68-6C987CF0946F}|homework1\\homework1.csproj|c:\\users\\swgoherf\\source\\repos\\homework1\\homework1\\tasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A2B5ABF-7890-4A52-BD68-6C987CF0946F}|homework1\\homework1.csproj|solutionrelative:homework1\\tasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1\\tasks\\chapter1\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|solutionrelative:homework1\\tasks\\chapter1\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A2B5ABF-7890-4A52-BD68-6C987CF0946F}|homework1\\homework1.csproj|c:\\users\\swgoherf\\source\\repos\\homework1\\homework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A2B5ABF-7890-4A52-BD68-6C987CF0946F}|homework1\\homework1.csproj|solutionrelative:homework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1\\tasks\\chapter1\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|solutionrelative:homework1\\tasks\\chapter1\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|solutionrelative:homework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1\\tasks\\chapter1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|solutionrelative:homework1\\tasks\\chapter1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1\\tasks\\chapter1\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|solutionrelative:homework1\\tasks\\chapter1\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1\\tasks\\chapter1\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|solutionrelative:homework1\\tasks\\chapter1\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task5.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task5.cs",
+              "RelativeDocumentMoniker": "homework1\\Tasks\\Chapter1\\Task5.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task5.cs",
+              "RelativeToolTip": "homework1\\Tasks\\Chapter1\\Task5.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T09:53:11.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Task4.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task4.cs",
+              "RelativeDocumentMoniker": "homework1\\Tasks\\Chapter1\\Task4.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task4.cs",
+              "RelativeToolTip": "homework1\\Tasks\\Chapter1\\Task4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T09:21:44.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task3.cs",
+              "RelativeDocumentMoniker": "homework1\\Tasks\\Chapter1\\Task3.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task3.cs",
+              "RelativeToolTip": "homework1\\Tasks\\Chapter1\\Task3.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T09:04:36.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task2.cs",
+              "RelativeDocumentMoniker": "homework1\\Tasks\\Chapter1\\Task2.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task2.cs",
+              "RelativeToolTip": "homework1\\Tasks\\Chapter1\\Task2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T08:33:39.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Task1.cs",
-              "DocumentMoniker": "C:\\Users\\swgoherf\\source\\repos\\homework1\\homework1\\Tasks\\Task1.cs",
-              "RelativeDocumentMoniker": "homework1\\Tasks\\Task1.cs",
-              "ToolTip": "C:\\Users\\swgoherf\\source\\repos\\homework1\\homework1\\Tasks\\Task1.cs*",
-              "RelativeToolTip": "homework1\\Tasks\\Task1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task1.cs",
+              "RelativeDocumentMoniker": "homework1\\Tasks\\Chapter1\\Task1.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task1.cs",
+              "RelativeToolTip": "homework1\\Tasks\\Chapter1\\Task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T07:59:38.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\swgoherf\\source\\repos\\homework1\\homework1\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Program.cs",
               "RelativeDocumentMoniker": "homework1\\Program.cs",
-              "ToolTip": "C:\\Users\\swgoherf\\source\\repos\\homework1\\homework1\\Program.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Program.cs",
               "RelativeToolTip": "homework1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T07:28:25.279Z",
               "EditorCaption": ""
