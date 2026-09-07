@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|solutionrelative:homework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|solutionrelative:homework1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1\\tasks\\chapter1\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|solutionrelative:homework1\\tasks\\chapter1\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1.2\\task3\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|solutionrelative:homework1.2\\task3\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1\\tasks\\chapter1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|solutionrelative:homework1\\tasks\\chapter1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1.2\\task3\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|solutionrelative:homework1.2\\task3\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1\\tasks\\chapter1\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|solutionrelative:homework1\\tasks\\chapter1\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1.2\\task3\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|solutionrelative:homework1.2\\task3\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1\\tasks\\chapter1\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|solutionrelative:homework1\\tasks\\chapter1\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1.2\\task3\\cryptopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|solutionrelative:homework1.2\\task3\\cryptopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1\\tasks\\chapter1\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BBFB34-44AC-3A73-14BF-490A730077C8}|homework1\\homework1.csproj|solutionrelative:homework1\\tasks\\chapter1\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1.2\\task3\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|solutionrelative:homework1.2\\task3\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1.2\\task2\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|solutionrelative:homework1.2\\task2\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1.2\\task2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|solutionrelative:homework1.2\\task2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1.2\\task2\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|solutionrelative:homework1.2\\task2\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1.2\\task2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|solutionrelative:homework1.2\\task2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|c:\\github\\elpixel-dotnet-study\\homework1\\homework1.2\\task1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A4F17E-DA71-46FE-A819-B82CCD749D49}|homework1.2\\homework1.2.csproj|solutionrelative:homework1.2\\task1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Task5.cs",
-              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task5.cs",
-              "RelativeDocumentMoniker": "homework1\\Tasks\\Chapter1\\Task5.cs",
-              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task5.cs",
-              "RelativeToolTip": "homework1\\Tasks\\Chapter1\\Task5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAANAAAAAAAAAA==",
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task3\\PaymentService.cs",
+              "RelativeDocumentMoniker": "homework1.2\\Task3\\PaymentService.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task3\\PaymentService.cs",
+              "RelativeToolTip": "homework1.2\\Task3\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T09:53:11.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Task4.cs",
-              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task4.cs",
-              "RelativeDocumentMoniker": "homework1\\Tasks\\Chapter1\\Task4.cs",
-              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task4.cs",
-              "RelativeToolTip": "homework1\\Tasks\\Chapter1\\Task4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T09:21:44.557Z",
+              "WhenOpened": "2026-09-07T12:54:29.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Task3.cs",
-              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task3.cs",
-              "RelativeDocumentMoniker": "homework1\\Tasks\\Chapter1\\Task3.cs",
-              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task3.cs",
-              "RelativeToolTip": "homework1\\Tasks\\Chapter1\\Task3.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAsAAAAAAAAAA==",
+              "Title": "CryptoPayment.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task3\\CryptoPayment.cs",
+              "RelativeDocumentMoniker": "homework1.2\\Task3\\CryptoPayment.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task3\\CryptoPayment.cs",
+              "RelativeToolTip": "homework1.2\\Task3\\CryptoPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T09:04:36.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Task2.cs",
-              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task2.cs",
-              "RelativeDocumentMoniker": "homework1\\Tasks\\Chapter1\\Task2.cs",
-              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task2.cs",
-              "RelativeToolTip": "homework1\\Tasks\\Chapter1\\Task2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T08:33:39.686Z",
+              "WhenOpened": "2026-09-07T12:52:26.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Task1.cs",
-              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task1.cs",
-              "RelativeDocumentMoniker": "homework1\\Tasks\\Chapter1\\Task1.cs",
-              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Tasks\\Chapter1\\Task1.cs",
-              "RelativeToolTip": "homework1\\Tasks\\Chapter1\\Task1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Title": "PayPal.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task3\\PayPal.cs",
+              "RelativeDocumentMoniker": "homework1.2\\Task3\\PayPal.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task3\\PayPal.cs",
+              "RelativeToolTip": "homework1.2\\Task3\\PayPal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T07:59:38.692Z",
+              "WhenOpened": "2026-09-07T12:51:33.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task3\\CreditCard.cs",
+              "RelativeDocumentMoniker": "homework1.2\\Task3\\CreditCard.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task3\\CreditCard.cs",
+              "RelativeToolTip": "homework1.2\\Task3\\CreditCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T12:49:28.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task3\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "homework1.2\\Task3\\IPaymentProcessor.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task3\\IPaymentProcessor.cs",
+              "RelativeToolTip": "homework1.2\\Task3\\IPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T12:41:39.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Designer.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task2\\Designer.cs",
+              "RelativeDocumentMoniker": "homework1.2\\Task2\\Designer.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task2\\Designer.cs",
+              "RelativeToolTip": "homework1.2\\Task2\\Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T12:23:03.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task2\\Manager.cs",
+              "RelativeDocumentMoniker": "homework1.2\\Task2\\Manager.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task2\\Manager.cs",
+              "RelativeToolTip": "homework1.2\\Task2\\Manager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T12:21:18.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task2\\Developer.cs",
+              "RelativeDocumentMoniker": "homework1.2\\Task2\\Developer.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task2\\Developer.cs",
+              "RelativeToolTip": "homework1.2\\Task2\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T12:09:05.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task2\\Employee.cs",
+              "RelativeDocumentMoniker": "homework1.2\\Task2\\Employee.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task2\\Employee.cs",
+              "RelativeToolTip": "homework1.2\\Task2\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T11:56:15.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Program.cs",
-              "RelativeDocumentMoniker": "homework1\\Program.cs",
-              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1\\Program.cs",
-              "RelativeToolTip": "homework1\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Program.cs",
+              "RelativeDocumentMoniker": "homework1.2\\Program.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Program.cs",
+              "RelativeToolTip": "homework1.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T07:28:25.279Z",
+              "WhenOpened": "2026-09-07T11:26:11.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task1\\BankAccount.cs",
+              "RelativeDocumentMoniker": "homework1.2\\Task1\\BankAccount.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework1\\homework1.2\\Task1\\BankAccount.cs",
+              "RelativeToolTip": "homework1.2\\Task1\\BankAccount.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wDMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T11:32:40.901Z",
               "EditorCaption": ""
             }
           ]

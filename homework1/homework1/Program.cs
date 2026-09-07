@@ -1,4 +1,4 @@
-﻿using homework1.Tasks.Chapter1;
+﻿using homework1.Tasks;
 
 void ChapterOneHandler()
 {

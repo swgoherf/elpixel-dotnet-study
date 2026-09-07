@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace homework1.Tasks.Chapter1
+namespace homework1.Tasks
 {
     internal class Task5
     {
