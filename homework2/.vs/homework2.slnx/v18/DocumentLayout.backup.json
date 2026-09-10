@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task6.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task6.cs",
+              "RelativeDocumentMoniker": "homework2\\Tasks\\Task6.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task6.cs",
+              "RelativeToolTip": "homework2\\Tasks\\Task6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:11:29.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task5.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task5.cs",
+              "RelativeDocumentMoniker": "homework2\\Tasks\\Task5.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task5.cs",
+              "RelativeToolTip": "homework2\\Tasks\\Task5.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:08:55.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task4.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task4.cs",
+              "RelativeDocumentMoniker": "homework2\\Tasks\\Task4.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task4.cs",
+              "RelativeToolTip": "homework2\\Tasks\\Task4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:07:21.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task3.cs",
+              "RelativeDocumentMoniker": "homework2\\Tasks\\Task3.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task3.cs",
+              "RelativeToolTip": "homework2\\Tasks\\Task3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:05:17.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task2.cs",
+              "RelativeDocumentMoniker": "homework2\\Tasks\\Task2.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task2.cs",
+              "RelativeToolTip": "homework2\\Tasks\\Task2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:03:31.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task1.cs",
+              "RelativeDocumentMoniker": "homework2\\Tasks\\Task1.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task1.cs",
+              "RelativeToolTip": "homework2\\Tasks\\Task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:00:49.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Program.cs",
+              "RelativeDocumentMoniker": "homework2\\Program.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Program.cs",
+              "RelativeToolTip": "homework2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T09:59:56.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
