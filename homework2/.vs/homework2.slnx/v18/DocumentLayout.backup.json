@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +19,16 @@
       "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\tasks\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\tasks\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|c:\\github\\elpixel-dotnet-study\\homework2\\homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A648EDC-5340-4085-9039-D60D929922D5}|homework2\\homework2.csproj|solutionrelative:homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Task6.cs",
               "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task6.cs",
               "RelativeDocumentMoniker": "homework2\\Tasks\\Task6.cs",
@@ -55,33 +55,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Task5.cs",
               "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task5.cs",
               "RelativeDocumentMoniker": "homework2\\Tasks\\Task5.cs",
               "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task5.cs",
               "RelativeToolTip": "homework2\\Tasks\\Task5.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-10T10:08:55.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Task4.cs",
               "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task4.cs",
               "RelativeDocumentMoniker": "homework2\\Tasks\\Task4.cs",
               "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task4.cs",
               "RelativeToolTip": "homework2\\Tasks\\Task4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-10T10:07:21.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Task3.cs",
               "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task3.cs",
               "RelativeDocumentMoniker": "homework2\\Tasks\\Task3.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Task2.cs",
               "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task2.cs",
               "RelativeDocumentMoniker": "homework2\\Tasks\\Task2.cs",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Task1.cs",
               "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Tasks\\Task1.cs",
               "RelativeDocumentMoniker": "homework2\\Tasks\\Task1.cs",
@@ -120,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework2\\homework2\\Program.cs",
               "RelativeDocumentMoniker": "homework2\\Program.cs",
