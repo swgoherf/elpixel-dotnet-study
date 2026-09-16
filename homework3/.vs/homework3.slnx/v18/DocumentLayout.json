@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\homework3\\",
+  "WorkspaceRootPath": "C:\\GitHub\\elpixel-dotnet-study\\homework3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{852BE7D3-26D3-44B6-A037-7960E12F4068}|homework3\\homework3.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\homework3\\homework3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{852BE7D3-26D3-44B6-A037-7960E12F4068}|homework3\\homework3.csproj|solutionrelative:homework3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{630F5B5D-90B0-560D-708C-6552705D6814}|homework3\\homework3.csproj|c:\\github\\elpixel-dotnet-study\\homework3\\homework3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630F5B5D-90B0-560D-708C-6552705D6814}|homework3\\homework3.csproj|solutionrelative:homework3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{852BE7D3-26D3-44B6-A037-7960E12F4068}|homework3\\homework3.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\homework3\\homework3\\extensions\\bookextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{852BE7D3-26D3-44B6-A037-7960E12F4068}|homework3\\homework3.csproj|solutionrelative:homework3\\extensions\\bookextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{630F5B5D-90B0-560D-708C-6552705D6814}|homework3\\homework3.csproj|c:\\github\\elpixel-dotnet-study\\homework3\\homework3\\extensions\\bookextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630F5B5D-90B0-560D-708C-6552705D6814}|homework3\\homework3.csproj|solutionrelative:homework3\\extensions\\bookextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{852BE7D3-26D3-44B6-A037-7960E12F4068}|homework3\\homework3.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\homework3\\homework3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{852BE7D3-26D3-44B6-A037-7960E12F4068}|homework3\\homework3.csproj|solutionrelative:homework3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{630F5B5D-90B0-560D-708C-6552705D6814}|homework3\\homework3.csproj|c:\\github\\elpixel-dotnet-study\\homework3\\homework3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630F5B5D-90B0-560D-708C-6552705D6814}|homework3\\homework3.csproj|solutionrelative:homework3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BookExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\homework3\\homework3\\Extensions\\BookExtensions.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework3\\homework3\\Extensions\\BookExtensions.cs",
               "RelativeDocumentMoniker": "homework3\\Extensions\\BookExtensions.cs",
-              "ToolTip": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\homework3\\homework3\\Extensions\\BookExtensions.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework3\\homework3\\Extensions\\BookExtensions.cs",
               "RelativeToolTip": "homework3\\Extensions\\BookExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T12:28:36.769Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\homework3\\homework3\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework3\\homework3\\Models\\Book.cs",
               "RelativeDocumentMoniker": "homework3\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\homework3\\homework3\\Models\\Book.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework3\\homework3\\Models\\Book.cs",
               "RelativeToolTip": "homework3\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T12:13:51.987Z",
               "EditorCaption": ""
@@ -54,9 +54,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\homework3\\homework3\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\elpixel-dotnet-study\\homework3\\homework3\\Program.cs",
               "RelativeDocumentMoniker": "homework3\\Program.cs",
-              "ToolTip": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\homework3\\homework3\\Program.cs",
+              "ToolTip": "C:\\GitHub\\elpixel-dotnet-study\\homework3\\homework3\\Program.cs",
               "RelativeToolTip": "homework3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
