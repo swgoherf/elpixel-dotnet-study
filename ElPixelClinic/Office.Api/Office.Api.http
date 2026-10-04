@@ -1,0 +1,6 @@
+@Office.Api_HostAddress = http://localhost:5253
+
+GET {{Office.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\elpixelclinic\\office.api\\models\\officeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|solutionrelative:office.api\\models\\officeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\elpixelclinic\\office.api\\office.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|solutionrelative:office.api\\office.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Controllers\\OfficeEntitiesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Office.Api\\Controllers\\OfficeEntitiesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\elpixelclinic\\office.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|solutionrelative:office.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\elpixelclinic\\office.api\\data\\officedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|solutionrelative:office.api\\data\\officedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OfficeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Models\\OfficeEntity.cs",
+              "RelativeDocumentMoniker": "Office.Api\\Models\\OfficeEntity.cs",
+              "ToolTip": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Models\\OfficeEntity.cs",
+              "RelativeToolTip": "Office.Api\\Models\\OfficeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:46:00.167Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Office.Api",
+              "DocumentMoniker": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Office.Api.csproj",
+              "RelativeDocumentMoniker": "Office.Api\\Office.Api.csproj",
+              "ToolTip": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Office.Api.csproj",
+              "RelativeToolTip": "Office.Api\\Office.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-04T19:15:41.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OfficeEntitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Controllers\\OfficeEntitiesController.cs",
+              "RelativeDocumentMoniker": "Office.Api\\Controllers\\OfficeEntitiesController.cs",
+              "ToolTip": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Controllers\\OfficeEntitiesController.cs",
+              "RelativeToolTip": "Office.Api\\Controllers\\OfficeEntitiesController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:07:40.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OfficeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Data\\OfficeDbContext.cs",
+              "RelativeDocumentMoniker": "Office.Api\\Data\\OfficeDbContext.cs",
+              "ToolTip": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Data\\OfficeDbContext.cs",
+              "RelativeToolTip": "Office.Api\\Data\\OfficeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:53:24.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Office.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Program.cs",
+              "RelativeToolTip": "Office.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:51:15.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
