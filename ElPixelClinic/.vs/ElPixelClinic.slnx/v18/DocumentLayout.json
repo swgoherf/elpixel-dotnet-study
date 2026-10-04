@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\elpixelclinic\\office.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|solutionrelative:office.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\elpixelclinic\\office.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|solutionrelative:office.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\elpixelclinic\\office.api\\data\\officedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|solutionrelative:office.api\\data\\officedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\elpixelclinic\\office.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|solutionrelative:office.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\elpixelclinic\\office.api\\controllers\\officeentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\elpixelclinic\\office.api\\models\\officeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|solutionrelative:office.api\\models\\officeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|c:\\users\\swgoherf(no crash)\\desktop\\github\\elpixel-dotnet-study\\elpixelclinic\\office.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0599854-9A0D-E5DD-EA7F-5177D18A5DA4}|Office.Api\\Office.Api.csproj|solutionrelative:office.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "OfficeEntity.cs",
               "DocumentMoniker": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Models\\OfficeEntity.cs",
               "RelativeDocumentMoniker": "Office.Api\\Models\\OfficeEntity.cs",
@@ -48,7 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Office.Api\\appsettings.json",
@@ -61,7 +61,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "OfficeEntitiesController.cs",
               "DocumentMoniker": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Controllers\\OfficeEntitiesController.cs",
               "RelativeDocumentMoniker": "Office.Api\\Controllers\\OfficeEntitiesController.cs",
@@ -87,13 +87,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Program.cs",
               "RelativeDocumentMoniker": "Office.Api\\Program.cs",
               "ToolTip": "C:\\Users\\swgoherf(no crash)\\Desktop\\GitHub\\elpixel-dotnet-study\\ElPixelClinic\\Office.Api\\Program.cs",
               "RelativeToolTip": "Office.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T16:51:15.247Z",
               "EditorCaption": ""
